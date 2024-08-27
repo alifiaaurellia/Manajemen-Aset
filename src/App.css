@@ -1,0 +1,8 @@
+.row-click-highlight {
+  background-color: #00cc18;
+  color: beige;
+}
+
+.my-swall-index { 
+  z-index: 1000000 !important;
+}
